@@ -1,12 +1,17 @@
-# Tugas Pintar
+# JiranKita
 
-Aplikasi to-do list moden menggunakan Next.js.
+Direktori penduduk moden untuk komuniti apartment, dibina dengan Next.js.
 
 ## Ciri
-- Tambah, tandakan selesai, dan padam tugasan
-- Penapis Semua / Belum selesai / Selesai
-- Simpan automatik menggunakan localStorage
+- Senarai penduduk mengikut unit dan blok
+- Carian nama / nombor unit
+- Penapis blok dan status pemilik / penyewa
+- Tambah, kemaskini dan padam rekod
+- Statistik unit, penghuni dan blok
+- Simpan demo secara automatik menggunakan localStorage
 - Responsive untuk desktop dan telefon
+
+> Nota: Versi demo menyimpan data pada browser. Untuk penggunaan sebenar, tambahkan authentication dan pangkalan data berpusat.
 
 ## Jalankan
 
